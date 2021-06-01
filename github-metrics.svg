@@ -1324,7 +1324,7 @@
                     <rect mask="url(#languages-bar)" x="395.46669830279956" y="0" width="25.234198184418627" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="420.7008964872182" y="0" width="17.705090481206966" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="438.40598696842517" y="0" width="17.41559949877775" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="455.8215864672029" y="0" width="2.391813845119066" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="455.8215864672029" y="0" width="2.391813845119066" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="458.213400312322" y="0" width="1.2870169485829677" height="8" fill="#AA6746"/>
                     <rect mask="url(#languages-bar)" x="459.50041726090495" y="0" width="0.4930246909494353" height="8" fill="#701516"/>
                     <rect mask="url(#languages-bar)" x="459.9934419518544" y="0" width="0.0065580481456456955" height="8" fill="#89e051"/>
@@ -1347,7 +1347,7 @@
                 TypeScript
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
@@ -1366,7 +1366,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 11:15:55 (timezone Europe/Paris) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 12:56:24 (timezone Europe/Paris) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
