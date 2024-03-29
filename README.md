@@ -1,7 +1,19 @@
 
 
-## 💫 Liitle Bit More About Me
-Coming soon!
+## 💫 Articles
+
+[Full Stack Development on Solana](https://techswift.pro/full-stack-solana-development) - Featured on Hashnode
+
+[Build an RPG game on Solana](https://dev.to/aeither/build-an-rpg-game-on-solana-45he)
+
+## 💫 Videos
+
+EthCC 6: Build an event app with encrypted onchain database
+https://www.youtube.com/watch?v=ikrhSNHGlJU
+
+Solana Breakpoint 2021. Workshop: Build a Solana Explorer
+https://www.youtube.com/watch?v=26WHGlTCU9Q
+
 
 ## 💻 Skills
 <p>
