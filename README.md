@@ -2,7 +2,7 @@
 
 ## 💫 Articles
 
-[Full Stack Development on Solana](https://techswift.pro/full-stack-solana-development) - Featured on Hashnode
+[Full Stack Development on Solana](https://metamake.hashnode.dev/full-stack-solana-development) - Featured on Hashnode
 
 [Build an RPG game on Solana](https://dev.to/aeither/build-an-rpg-game-on-solana-45he)
 
