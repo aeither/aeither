@@ -1,5 +1,14 @@
 
 
+## 🚀 Projects (Fulin Labs)
+
+- [HSK Studio](https://hsk.fulinlabs.com/) - HSK vocabulary, flashcards and a Chinese text analyzer
+- [Fulin Flashcard](https://flashcard.fulinlabs.com/) - fast spaced-repetition flashcards
+- [ShortLink](https://s.fulinlabs.com/) - short links with UTM builder and click analytics
+- [SchedulePost](https://schedulepost.fulinlabs.com/) - schedule Reels, TikTok and other short videos
+
+More at [fulinlabs.com](https://fulinlabs.com/).
+
 ## 💫 Articles
 
 [Full Stack Development on Solana](https://metamake.hashnode.dev/full-stack-solana-development) - Featured on Hashnode
